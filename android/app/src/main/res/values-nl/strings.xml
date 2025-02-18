@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="volume_to_low_warning_title">Het volume is te laag</string>
+    <string name="volume_to_low_warning_text">Verhoog het volume aub</string>
+    <string name="warning_icon_description">Waarschuwing</string>
+    <string name="info_icon_description">Informatie</string>
+    <string name="volume_setting_unavailable_dialog_title">Volume-instellingen niet beschikbaar</string>
+    <string name="volume_setting_unavailable_dialog_message">We kunnen het volume niet automatisch instellen omdat uw apparaat niet verbonden is met een managed device manager (MDM) of omdat uw telefoonmodel niet geregistreerd is bij de MDM.\nUw apparaatmodel: %1$s</string>
+    <string name="do_not_remind_me_again">Herinner me er niet meer aan</string>
+    <string name="press_play_to_generate_noise">Druk op afspelen om ruis te genereren</string>
+    <string name="service_notification_name">Notificatie %1$s</string>
+    <string name="service_notification_title">@string/app_name</string>
+    <string name="service_notification_text">Roze ruis wordt gegenereerd</string>
+    <string name="play_icon_description">Speel af</string>
+    <string name="pause_icon_description">Pauze</string>
+    <string name="menu_icon_description">Menu</string>
+    <string name="version">Versie: %1$s</string>
+    <string name="close">Sluiten</string>
+    <string name="minimum_volume_unmanaged">Minimaal volume: %1$s%%</string>
+    <string name="minimum_volume_managed">Volume gecontroleerd door organisatie: %1$s%%</string>
+    <string name="no_volume_information_title">Volume niet ingesteld</string>
+    <string name="no_volume_information_text">Elk apparaat heeft zijn eigen aanbevolen minimale volume, afhankelijk van het model en hoe goed de luidsprekers werken. Pas het volumeniveau aan in de instellingen.</string>
+</resources>

@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name" translatable="false">Sectra Noise Shield</string>
+    <string name="volume_to_low_warning_title">The volume is too low</string>
+    <string name="volume_to_low_warning_text">Please increase the volume</string>
+    <string name="warning_icon_description">Warning</string>
+    <string name="info_icon_description">Information</string>
+    <string name="volume_setting_unavailable_dialog_title">Volume Setting Unavailable</string>
+    <string name="volume_setting_unavailable_dialog_message">We\'re unable to set the volume automatically because your device is either not connected to a managed device manager (MDM) or your phone model isn\'t registered with the MDM.\nYour device model: %1$s</string>
+    <string name="do_not_remind_me_again">Do not remind me again</string>
+    <string name="ok" translatable="false">@android:string/ok</string>
+    <string name="press_play_to_generate_noise">Press play to generate noise</string>
+    <string name="service_notification_name">%1$s Notification</string>
+    <string name="service_notification_title">@string/app_name</string>
+    <string name="service_notification_text">Pink noise is being generated</string>
+    <string name="play_icon_description">Play</string>
+    <string name="pause_icon_description">Pause</string>
+    <string name="menu_icon_description">Menu</string>
+    <string name="version">Version: %1$s</string>
+    <string name="close">Close</string>
+    <string name="minimum_volume_unmanaged">Minimum volume: %1$s\%%</string>
+    <string name="minimum_volume_managed">Volume controlled by organization: %1$s\%%</string>
+    <string name="no_volume_information_title">Volume not set</string>
+    <string name="no_volume_information_text">Each device has its own recommended minimum volume, depending on its model and how well the speakers work. Adjust the volume level in the settings.</string>
+</resources>

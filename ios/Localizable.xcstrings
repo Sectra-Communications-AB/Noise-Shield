@@ -1,0 +1,183 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "do_not_remind_me_again" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Do not remind me again"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Herinner me niet meer"
+          }
+        }
+      }
+    },
+    "Minimum volume: %lld%%" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Minimum volume: %lld%%"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Minimaal volume: %lld%%"
+          }
+        }
+      }
+    },
+    "NO_VOLUME_INFORMATION_TEXT" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Each device has its own recommended minimum volume, depending on device type and the speaker quality. Your device type is not found in the configuration. This can be updated by your organisation via MDM or you can update this yourself. Your device model: "
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "Elk apparaat heeft zijn eigen aanbevolen minimale volume, afhankelijk van het model en goed de luidsprekers werken. Uw apparaat model kon niet gevonden worden in the configuratie.  Dit kan aangepast worden door uw organisatie via MDM of dit kan zelf gedaan worden in de instellingen. Uw type telefoon is:"
+          }
+        }
+      }
+    },
+    "NO_VOLUME_INFORMATION_TITLE" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Volume not set"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Volume niet ingesteld"
+          }
+        }
+      }
+    },
+    "OK" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ok"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ok"
+          }
+        }
+      }
+    },
+    "PRESS_PLAY_TO_GENERATE_NOISE" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Press play to generate noise"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Druk op afspelen om ruis te genereren"
+          }
+        }
+      }
+    },
+    "Version: %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Version: %@"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Versie: %@"
+          }
+        }
+      }
+    },
+    "volume_setting_unavailable_dialog_message" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "We’re unable to set the volume automatically because your device is either not connected to a managed device manager (MDM) or your phone model isn’t registered with the MDM. Please set the volume manually to 80dB to ensure sound protection.\nYour device model:"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "We kunnen het volume niet automatisch instellen omdat uw apparaat niet verbonden is met een managed device manager (MDM) of omdat uw telefoonmodel niet geregistreerd is bij de MDM. Stel het volume handmatig in opt 80dB om de geluidsbescherming te garanderen.\nUw apparaatmodel: "
+          }
+        }
+      }
+    },
+    "volume_setting_unavailable_dialog_title" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Volume Setting Unavailable"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Volume-instellingen niet beschikbaar"
+          }
+        }
+      }
+    },
+    "VOLUME_WARNING" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The volume is too low!"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Het volume staat te laag!"
+          }
+        }
+      }
+    },
+    "VOLUME_WARNING_INFO" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Please increase the volume."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verhoog volume."
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
