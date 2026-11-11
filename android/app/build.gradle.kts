@@ -5,14 +5,14 @@ plugins {
 
 android {
     namespace = "com.sectra.noiseshield"
-    compileSdk = 34
+    compileSdk = 36
 
     defaultConfig {
         applicationId = "com.sectra.noiseshield"
         minSdk = 33
-        targetSdk = 34
-        versionCode = 12
-        versionName = "1.2.3"
+        targetSdk = 36
+        versionCode = 13
+        versionName = "1.3.0"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
         vectorDrawables {
